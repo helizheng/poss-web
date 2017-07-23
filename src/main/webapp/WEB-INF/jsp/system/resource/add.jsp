@@ -146,8 +146,8 @@
 								<label class="control-label">是否禁用</label>
 								<div class="controls">
 									<select class="select-locked" name="status" id="status">
-										<option value="0">是</option>
 										<option value="1" selected="selected">否</option>
+										<option value="0">是</option>
 									</select>
 								</div>
 							</div>
